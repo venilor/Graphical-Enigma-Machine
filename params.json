@@ -1,0 +1,6 @@
+{
+  "name": "Graphical-enigma-machine",
+  "tagline": "Enigma Machine that decodes or encodes a piece of text using user inputted rotors.",
+  "body": "# Graphical-Enigma-Machine\r\nEnigma Machine that decodes or encodes a piece of text using user inputted rotors.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
